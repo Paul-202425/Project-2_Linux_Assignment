@@ -1,0 +1,13 @@
+logs/app01.log: 643 matching lines out of 13000 (thread 1)
+logs/app03.log: 1965 matching lines out of 39000 (thread 3)
+logs/app02.log: 1296 matching lines out of 26000 (thread 2)
+logs/app04.log: 3268 matching lines out of 65000 (thread 4)
+logs/app06.log: 6396 matching lines out of 130000 (thread 3)
+logs/app05.log: 5249 matching lines out of 104000 (thread 1)
+logs/app08.log: 13015 matching lines out of 260000 (thread 4)
+logs/app07.log: 9733 matching lines out of 195000 (thread 2)
+logs/app09.log: 16365 matching lines out of 325000 (thread 3)
+logs/app11.log: 26055 matching lines out of 520000 (thread 4)
+logs/app10.log: 19339 matching lines out of 390000 (thread 1)
+logs/app12.log: 32689 matching lines out of 650000 (thread 2)
+Total matching lines across 12 files: 136013
